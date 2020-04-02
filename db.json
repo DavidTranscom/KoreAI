@@ -1,35 +1,36 @@
 {
-	"details": [{
-			"Sent": "2020-04-01",
-			"Order number": "1234567",
-			"Expected delivery": "2020-04-06",
-			"Carrier": "Nord Post",
-      "Delivery": "Home delivery",
-		},
-		{
-			"Airlines": "Qatar Airways",
-			"OrderNo": "1234567",
-			"Type": "Departure",
-			"Airport": "Dallas",
-			"AirportName": "Dallas/Fort Worth International Airport",
-			"Time": "07:50"
-		},
-		{
-			"Airlines": "Cathay Pacific",
-			"FlightNo": "CX051",
-			"Type": "Arrival",
-			"Airport": "Houston",
-			"AirportName": "George Bush Intercontinental Airport",
-			"Time": "19:30"
-		},
-		{
-			"Airlines": "Cathay Pacific",
-			"FlightNo": "CX051",
-			"Type": "Departure",
-			"Airport": "Houston",
-			"AirportName": "George Bush Intercontinental Airport",
-			"Time": "00:35"
-		}
-	]
-  
+    "details": [
+      {
+        "Order number": "1234567",
+        "Carrier": "Nord Post",
+        "Sent": "2020-04-01",
+        "Estimated arrival": "2020-04-06",
+        "Type": "Home delivery",
+        "Time of day": "12 - 17pm"
+      },
+      {
+        "Airlines": "Qatar Airways",
+        "FlightNo": "QR040",
+        "Type": "Departure",
+        "Airport": "Dallas",
+        "AirportName": "Dallas/Fort Worth International Airport",
+        "Time": "07:50"
+      },
+      {
+        "Airlines": "Cathay Pacific",
+        "FlightNo": "CX051",
+        "Type": "Arrival",
+        "Airport": "Houston",
+        "AirportName": "George Bush Intercontinental Airport",
+        "Time": "19:30"
+      },
+      {
+        "Airlines": "Cathay Pacific",
+        "FlightNo": "CX051",
+        "Type": "Departure",
+        "Airport": "Houston",
+        "AirportName": "George Bush Intercontinental Airport",
+        "Time": "00:35"
+      }
+    ]
 }
