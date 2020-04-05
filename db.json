@@ -1,11 +1,11 @@
 {
     "details": [
       {
-        "OrderNumber": "1234567",
-        "Carrier": "Nord Post",
-        "Sent": "2020-04-01",
-        "EstimatedArrival": "2020-04-06",
-        "Type": "HomeDelivery",
+        "orderNo": "1234567",
+        "carrier": "Nord Post",
+        "sent": "2020-04-01",
+        "arrival": "2020-04-06",
+        "delivery": "HomeDelivery",
       },
       {
         "Airlines": "Qatar Airways",
