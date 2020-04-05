@@ -1,35 +1,35 @@
 {
-    "details": [
-      {
-        "orderNo": "1234567",
-        "carrier": "Nord Post",
-        "sent": "2020-04-01",
-        "arrival": "2020-04-06",
-        "delivery": "HomeDelivery",
-      },
-      {
-        "Airlines": "Qatar Airways",
-        "FlightNo": "QR040",
-        "Type": "Departure",
-        "Airport": "Dallas",
-        "AirportName": "Dallas/Fort Worth International Airport",
-        "Time": "07:50"
-      },
-      {
-        "Airlines": "Cathay Pacific",
-        "FlightNo": "CX051",
-        "Type": "Arrival",
-        "Airport": "Houston",
-        "AirportName": "George Bush Intercontinental Airport",
-        "Time": "19:30"
-      },
-      {
-        "Airlines": "Cathay Pacific",
-        "FlightNo": "CX051",
-        "Type": "Departure",
-        "Airport": "Houston",
-        "AirportName": "George Bush Intercontinental Airport",
-        "Time": "00:35"
-      }
-    ]
+	"details": [{
+			"courier": "Nord Post",
+			"OrderNo": "1234567",
+			"Sent": "2020-04-06",
+			"Arrive": "2020-04-09",
+			"Deliver": "Doorstep",
+			"Time": "12:00 - 17:00"
+		},
+		{
+			"courier": "DHJ",
+			"OrderNo": "1234566",
+			"Sent": "2020-04-06",
+			"Arrive": "2020-04-09",
+			"Deliver": "Doorstep",
+			"Time": "12:00 - 17:00"
+		},
+		{
+			"courier": "Schonker",
+			"OrderNo": "1234555",
+			"Sent": "2020-04-06",
+			"Arrive": "2020-04-09",
+			"Deliver": "Doorstep",
+			"Time": "12:00 - 17:00"
+		},
+		{
+			"courier": "Oopsie",
+			"OrderNo": "1234444",
+			"Sent": "2020-04-06",
+			"Arrive": "2020-04-09",
+			"Deliver": "Doorstep",
+			"Time": "12:00 - 17:00"
+		}
+	]
 }
